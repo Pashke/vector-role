@@ -1,7 +1,7 @@
 ansible-vector
 =========
 
-homework for the netology
+homework for the netology.
 
 Role Variables
 --------------
